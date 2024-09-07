@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
