@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
