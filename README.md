@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anand-satvik/LC-submissions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anand-satvik/LC-submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
