@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anand-satvik/LC-submissions/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anand-satvik/LC-submissions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anand-satvik/LC-submissions/tree/master/0042-trapping-rain-water) |
 | [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0494-target-sum) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anand-satvik/LC-submissions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anand-satvik/LC-submissions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/anand-satvik/LC-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anand-satvik/LC-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anand-satvik/LC-submissions/tree/master/0232-implement-queue-using-stacks) |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anand-satvik/LC-submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anand-satvik/LC-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anand-satvik/LC-submissions/tree/master/0503-next-greater-element-ii) |
 ## Design
