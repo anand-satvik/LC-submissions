@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
+| [0801-is-graph-bipartite](https://github.com/anand-satvik/LC-submissions/tree/master/0801-is-graph-bipartite) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,12 +103,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/anand-satvik/LC-submissions/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/anand-satvik/LC-submissions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/anand-satvik/LC-submissions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
