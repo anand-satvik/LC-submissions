@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anand-satvik/LC-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anand-satvik/LC-submissions/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/anand-satvik/LC-submissions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
