@@ -41,6 +41,12 @@ public:
         return 1+solve(root->left)+solve(root->right);
     }
     int countNodes(TreeNode* root) {
-        return solve(root);
+        // return solve(root);
+        if(root==NULL) return 0;
+        int lh=findL(root);
+        int rh=findR(root);
+        if(lh==rh) return (1<<lh)-1;
+        else
+        return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
