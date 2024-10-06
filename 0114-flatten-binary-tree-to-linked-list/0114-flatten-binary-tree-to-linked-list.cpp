@@ -11,19 +11,37 @@
  */
 class Solution {
 public:
-    TreeNode* prev=NULL;
-    void solve(TreeNode* root)
-    {
-        if(root==NULL)
-        return;
-        solve(root->right);
-        solve(root->left);
-        root->right=prev;
-        root->left=NULL;
-        prev=root;
+    
+    // void solve(TreeNode* root)
+    // {
+    //     if(root==NULL)
+    //     return;
+    //     solve(root->right);
+    //     solve(root->left);
+    //     root->right=prev;
+    //     root->left=NULL;
+    //     prev=root;
 
-    }
+    // }
     void flatten(TreeNode* root) {
-        solve(root);
+        // if(root==NULL) return;
+        TreeNode* cur=root;
+        // TreeNode* prev;
+        while(cur!=NULL)
+        {
+            if(cur->left!=NULL)
+            {
+                TreeNode* prev=cur->left;
+                while(prev->right)
+                {
+                    prev=prev->right;
+                }
+                prev->right=cur->right;
+                cur->right=cur->left;
+                cur->left=NULL;
+            }
+            cur=cur->right;
+        }
+        // solve(root);
     }
 };
