@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anand-satvik/LC-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anand-satvik/LC-submissions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/anand-satvik/LC-submissions/tree/master/0518-coin-change-ii) |
+| [1036-rotting-oranges](https://github.com/anand-satvik/LC-submissions/tree/master/1036-rotting-oranges) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/anand-satvik/LC-submissions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/anand-satvik/LC-submissions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/anand-satvik/LC-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/anand-satvik/LC-submissions/tree/master/1036-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anand-satvik/LC-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/anand-satvik/LC-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/anand-satvik/LC-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/anand-satvik/LC-submissions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
