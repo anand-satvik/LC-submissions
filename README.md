@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anand-satvik/LC-submissions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
+| [0908-middle-of-the-linked-list](https://github.com/anand-satvik/LC-submissions/tree/master/0908-middle-of-the-linked-list) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anand-satvik/LC-submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anand-satvik/LC-submissions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/anand-satvik/LC-submissions/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
