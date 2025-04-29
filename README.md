@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/anand-satvik/LC-submissions/tree/master/0518-coin-change-ii) |
 | [1036-rotting-oranges](https://github.com/anand-satvik/LC-submissions/tree/master/1036-rotting-oranges) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/anand-satvik/LC-submissions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/anand-satvik/LC-submissions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
