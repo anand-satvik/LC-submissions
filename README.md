@@ -228,4 +228,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anand-satvik/LC-submissions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/anand-satvik/LC-submissions/tree/master/3201-distribute-candies-among-children-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/anand-satvik/LC-submissions/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/anand-satvik/LC-submissions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
