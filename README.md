@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anand-satvik/LC-submissions/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/anand-satvik/LC-submissions/tree/master/0135-candy) |
 | [0322-coin-change](https://github.com/anand-satvik/LC-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/anand-satvik/LC-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/anand-satvik/LC-submissions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/anand-satvik/LC-submissions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
